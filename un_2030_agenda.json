@@ -1,0 +1,306 @@
+{
+  "framework_id": "UN_2030_AGENDA",
+  "title": "Transforming our world: the 2030 Agenda for Sustainable Development",
+  "short_name": "2030 Agenda",
+  "year_adopted": 2015,
+  "issuing_body": "United Nations General Assembly",
+  "document_type": "UN resolution",
+  "resolution_code": "A/RES/70/1",
+  "scope": "Global",
+  "url": "https://sustainabledevelopment.un.org/post2015/transformingourworld",
+  "overall_summary": "Global plan of action for people, planet and prosperity, structured around 17 Sustainable Development Goals and 169 targets, with a strong emphasis on eradicating poverty, reducing inequalities, protecting the environment, and strengthening peace and partnerships.",
+  "core_principles": [
+    "Eradication of poverty in all its forms as the greatest global challenge.",
+    "Integration and indivisibility of economic, social and environmental dimensions of sustainable development.",
+    "Universality of the agenda: it applies to all countries, developed and developing.",
+    "Leave no one behind and reach the furthest behind first.",
+    "Respect for human rights, gender equality and empowerment of women and girls.",
+    "Need for global partnership and solidarity, especially with the poorest and most vulnerable."
+  ],
+  "pillars": [
+    {
+      "pillar_id": "people",
+      "title": "People",
+      "summary": "Commitment to end poverty and hunger and ensure all people can fulfil their potential in dignity and equality, in a healthy environment.",
+      "focus_areas": [
+        "Ending poverty and hunger in all forms.",
+        "Ensuring access to basic services such as health, education, water and sanitation.",
+        "Promoting dignity, equality and human development."
+      ]
+    },
+    {
+      "pillar_id": "planet",
+      "title": "Planet",
+      "summary": "Protection of the planet from degradation, including through sustainable consumption and production, sustainable management of natural resources and urgent action on climate change.",
+      "focus_areas": [
+        "Conserving ecosystems and biodiversity.",
+        "Sustainable management of land, water and oceans.",
+        "Tackling climate change and environmental degradation."
+      ]
+    },
+    {
+      "pillar_id": "prosperity",
+      "title": "Prosperity",
+      "summary": "Ensuring all people can enjoy prosperous and fulfilling lives and that economic, social and technological progress occurs in harmony with nature.",
+      "focus_areas": [
+        "Inclusive and sustainable economic growth.",
+        "Productive employment and decent work for all.",
+        "Innovation, infrastructure and sustainable industrialization."
+      ]
+    },
+    {
+      "pillar_id": "peace",
+      "title": "Peace",
+      "summary": "Fostering peaceful, just and inclusive societies that are free from fear and violence.",
+      "focus_areas": [
+        "Reducing violence and conflict.",
+        "Access to justice for all.",
+        "Building effective, accountable and inclusive institutions."
+      ]
+    },
+    {
+      "pillar_id": "partnership",
+      "title": "Partnership",
+      "summary": "Mobilizing the means required to implement the Agenda through a revitalized Global Partnership for Sustainable Development.",
+      "focus_areas": [
+        "Strengthening global solidarity.",
+        "Enhancing North–South and South–South cooperation.",
+        "Multi-stakeholder partnerships involving governments, private sector and civil society."
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "preamble",
+      "title": "Preamble",
+      "summary": "Introduces the Agenda as a plan of action for people, planet and prosperity, emphasizing the eradication of poverty as essential for sustainable development and framing the SDGs as integrated and universal.",
+      "key_points": [
+        "Recognition that poverty in all forms and dimensions is the greatest global challenge.",
+        "Commitment to free humanity from poverty and heal the planet.",
+        "Introduction of the 17 SDGs and 169 targets as integrated and indivisible.",
+        "Emphasis on leaving no one behind and improving lives for all."
+      ]
+    },
+    {
+      "section_id": "declaration",
+      "title": "Declaration",
+      "summary": "Sets out the vision, shared principles and commitments guiding the Agenda, including human rights, equality, and the integrated nature of development challenges.",
+      "key_points": [
+        "Reaffirms commitments to the UN Charter, human rights treaties and major UN conferences.",
+        "Envisions a world free of poverty, hunger, disease, fear and violence with universal access to quality education, health care, water and energy.",
+        "Stresses respect for human rights, the rule of law, justice, equality and non-discrimination.",
+        "Highlights the importance of sustainable consumption and production and harmony with nature.",
+        "Recognizes the need for integrated solutions to interconnected challenges such as poverty, inequality, environmental degradation and peace."
+      ]
+    },
+    {
+      "section_id": "the_new_agenda",
+      "title": "The new Agenda",
+      "summary": "Describes the universal, transformative and integrated nature of the Agenda, its relationship with previous development frameworks and the responsibilities of all countries.",
+      "key_points": [
+        "Applies to all countries, taking into account national realities and capacities.",
+        "Builds on and aims to complete the unfinished business of the Millennium Development Goals.",
+        "Acknowledges different levels of development but stresses shared responsibility.",
+        "Highlights the importance of national ownership and implementation strategies.",
+        "Calls for addressing root causes of poverty and inequality, including structural issues in the global economy."
+      ]
+    },
+    {
+      "section_id": "means_of_implementation",
+      "title": "Means of implementation",
+      "summary": "Explains how the Agenda will be implemented, including finance, technology, capacity-building, trade and systemic issues, in line with the Addis Ababa Action Agenda.",
+      "key_points": [
+        "Stresses the importance of domestic resource mobilization, including fair and efficient tax systems.",
+        "Calls for increased international public finance, including official development assistance, particularly for least developed countries.",
+        "Encourages mobilization of private finance and sustainable investment.",
+        "Emphasizes technology transfer, innovation and capacity-building in developing countries.",
+        "Highlights trade as an engine for inclusive growth and the need for a universal, rules-based and equitable multilateral trading system.",
+        "Addresses systemic issues such as global economic governance, debt sustainability and policy coherence."
+      ]
+    },
+    {
+      "section_id": "follow_up_and_review",
+      "title": "Follow-up and review",
+      "summary": "Describes the monitoring and review architecture at national, regional and global levels to track progress and ensure accountability.",
+      "key_points": [
+        "National governments are encouraged to conduct regular and inclusive reviews of progress, involving parliaments and stakeholders.",
+        "Regional platforms are expected to support peer learning and review.",
+        "The High-level Political Forum under the UN is designated as the central platform for global follow-up and review.",
+        "Reviews should be voluntary, country-led, evidence-based and focused on implementation and lessons learned.",
+        "Calls for improved data collection and capacity to measure progress, including disaggregated data to identify those left behind."
+      ]
+    }
+  ],
+  "sdg_overview": [
+    {
+      "sdg_id": 1,
+      "sdg_name": "No Poverty",
+      "headline": "End poverty in all its forms everywhere.",
+      "main_themes": [
+        "Eradicating extreme income poverty.",
+        "Reducing national poverty levels according to national definitions.",
+        "Social protection systems and resilience to economic, social and environmental shocks."
+      ]
+    },
+    {
+      "sdg_id": 2,
+      "sdg_name": "Zero Hunger",
+      "headline": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture.",
+      "main_themes": [
+        "Access to safe, nutritious and sufficient food all year round.",
+        "Ending all forms of malnutrition.",
+        "Sustainable and resilient agriculture that protects ecosystems and improves productivity."
+      ]
+    },
+    {
+      "sdg_id": 3,
+      "sdg_name": "Good Health and Well-Being",
+      "headline": "Ensure healthy lives and promote well-being for all at all ages.",
+      "main_themes": [
+        "Reducing maternal and child mortality.",
+        "Combating communicable and non-communicable diseases.",
+        "Universal health coverage and access to essential health services and medicines."
+      ]
+    },
+    {
+      "sdg_id": 4,
+      "sdg_name": "Quality Education",
+      "headline": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.",
+      "main_themes": [
+        "Universal completion of quality primary and secondary education.",
+        "Equal access to affordable technical, vocational and tertiary education.",
+        "Relevant skills for employment, decent work and entrepreneurship."
+      ]
+    },
+    {
+      "sdg_id": 5,
+      "sdg_name": "Gender Equality",
+      "headline": "Achieve gender equality and empower all women and girls.",
+      "main_themes": [
+        "Eliminating discrimination and violence against women and girls.",
+        "Ending harmful practices such as child, early and forced marriage.",
+        "Ensuring women’s full participation and equal opportunities for leadership."
+      ]
+    },
+    {
+      "sdg_id": 6,
+      "sdg_name": "Clean Water and Sanitation",
+      "headline": "Ensure availability and sustainable management of water and sanitation for all.",
+      "main_themes": [
+        "Universal access to safe and affordable drinking water.",
+        "Adequate and equitable sanitation and hygiene for all.",
+        "Improved water quality, water-use efficiency and protection of water-related ecosystems."
+      ]
+    },
+    {
+      "sdg_id": 7,
+      "sdg_name": "Affordable and Clean Energy",
+      "headline": "Ensure access to affordable, reliable, sustainable and modern energy for all.",
+      "main_themes": [
+        "Universal access to modern energy services.",
+        "Increasing the share of renewable energy in the global mix.",
+        "Improving energy efficiency."
+      ]
+    },
+    {
+      "sdg_id": 8,
+      "sdg_name": "Decent Work and Economic Growth",
+      "headline": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.",
+      "main_themes": [
+        "Sustained per capita economic growth and higher productivity.",
+        "Full and productive employment and decent work for all.",
+        "Protection of labour rights and safe and secure working environments."
+      ]
+    },
+    {
+      "sdg_id": 9,
+      "sdg_name": "Industry, Innovation and Infrastructure",
+      "headline": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.",
+      "main_themes": [
+        "Developing quality, reliable, sustainable and resilient infrastructure.",
+        "Promoting inclusive and sustainable industrialization.",
+        "Enhancing research, technological capabilities and innovation, especially for SMEs."
+      ]
+    },
+    {
+      "sdg_id": 10,
+      "sdg_name": "Reduced Inequalities",
+      "headline": "Reduce inequality within and among countries.",
+      "main_themes": [
+        "Income growth for the bottom 40 per cent of the population.",
+        "Social, economic and political inclusion of all, regardless of status.",
+        "Eliminating discriminatory laws, policies and practices and promoting equal opportunities."
+      ]
+    },
+    {
+      "sdg_id": 11,
+      "sdg_name": "Sustainable Cities and Communities",
+      "headline": "Make cities and human settlements inclusive, safe, resilient and sustainable.",
+      "main_themes": [
+        "Access to adequate, safe and affordable housing and basic services.",
+        "Safe, affordable, accessible and sustainable transport systems.",
+        "Reducing environmental impact of cities and protecting cultural and natural heritage."
+      ]
+    },
+    {
+      "sdg_id": 12,
+      "sdg_name": "Responsible Consumption and Production",
+      "headline": "Ensure sustainable consumption and production patterns.",
+      "main_themes": [
+        "Sustainable management and efficient use of natural resources.",
+        "Reducing waste generation through prevention, reduction, recycling and reuse.",
+        "Corporate adoption of sustainable practices and sustainability reporting."
+      ]
+    },
+    {
+      "sdg_id": 13,
+      "sdg_name": "Climate Action",
+      "headline": "Take urgent action to combat climate change and its impacts.",
+      "main_themes": [
+        "Strengthening resilience and adaptive capacity to climate-related hazards.",
+        "Integrating climate change measures into policies and planning.",
+        "Improving education, awareness and institutional capacity on climate mitigation and adaptation."
+      ]
+    },
+    {
+      "sdg_id": 14,
+      "sdg_name": "Life Below Water",
+      "headline": "Conserve and sustainably use the oceans, seas and marine resources for sustainable development.",
+      "main_themes": [
+        "Reducing marine pollution of all kinds.",
+        "Sustainable management and protection of marine and coastal ecosystems.",
+        "Ending overfishing and illegal, unreported and unregulated fishing."
+      ]
+    },
+    {
+      "sdg_id": 15,
+      "sdg_name": "Life on Land",
+      "headline": "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt biodiversity loss.",
+      "main_themes": [
+        "Conservation and restoration of terrestrial and freshwater ecosystems.",
+        "Sustainable forest management and halting deforestation.",
+        "Combating desertification, restoring degraded land and halting biodiversity loss."
+      ]
+    },
+    {
+      "sdg_id": 16,
+      "sdg_name": "Peace, Justice and Strong Institutions",
+      "headline": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels.",
+      "main_themes": [
+        "Reducing all forms of violence and related deaths.",
+        "Rule of law and equal access to justice for all.",
+        "Reducing corruption and building effective, accountable and transparent institutions."
+      ]
+    },
+    {
+      "sdg_id": 17,
+      "sdg_name": "Partnerships for the Goals",
+      "headline": "Strengthen the means of implementation and revitalize the global partnership for sustainable development.",
+      "main_themes": [
+        "Mobilizing financial resources from multiple sources.",
+        "Enhancing technology, capacity-building and data for sustainable development.",
+        "Promoting multi-stakeholder partnerships at global, regional and national levels."
+      ]
+    }
+  ]
+}
