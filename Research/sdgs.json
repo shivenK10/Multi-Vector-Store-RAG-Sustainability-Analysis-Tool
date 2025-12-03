@@ -1,0 +1,817 @@
+[
+  {
+    "sdg_id": 1,
+    "sdg_name": "No Poverty",
+    "headline": "End poverty in all its forms everywhere.",
+    "category": ["social"],
+    "summary": "Eradicate extreme poverty, expand social protection, increase access to basic services and assets, and reduce vulnerability to climate and economic shocks.",
+    "targets": [
+      {
+        "target_id": "1.1",
+        "text_paraphrase": "By 2030, eradicate extreme poverty for all people everywhere.",
+        "key_indicators": ["1.1.1"]
+      },
+      {
+        "target_id": "1.2",
+        "text_paraphrase": "Reduce at least by half the proportion of people living in poverty in all its dimensions.",
+        "key_indicators": ["1.2.1", "1.2.2"]
+      },
+      {
+        "target_id": "1.3",
+        "text_paraphrase": "Implement nationally appropriate social protection systems and floors for all.",
+        "key_indicators": ["1.3.1"]
+      },
+      {
+        "target_id": "1.4",
+        "text_paraphrase": "Ensure equal rights to economic resources and access to basic services, land, technology and finance.",
+        "key_indicators": ["1.4.1", "1.4.2"]
+      },
+      {
+        "target_id": "1.5",
+        "text_paraphrase": "Build resilience of the poor and reduce exposure to climate-related and economic shocks/disasters.",
+        "key_indicators": ["1.5.1", "1.5.2", "1.5.3", "1.5.4"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Inclusive hiring and living wages",
+        "description": "Create decent jobs for low-income groups with fair wages, benefits, and worker protections.",
+        "possible_sectors": ["manufacturing", "services", "retail", "construction"]
+      },
+      {
+        "title": "Affordable essential services",
+        "description": "Low-cost access to housing, energy, water, healthcare, or finance for vulnerable communities.",
+        "possible_sectors": ["utilities", "fintech", "real estate", "health"]
+      },
+      {
+        "title": "Shock-resilient livelihoods",
+        "description": "Insurance, savings, and climate-resilient assets for disaster-prone regions.",
+        "possible_sectors": ["insurance", "agriculture", "microfinance", "public-private partnerships"]
+      }
+    ],
+    "keywords": ["poverty", "social protection", "basic services", "livelihoods", "resilience", "disaster risk"]
+  },
+
+  {
+    "sdg_id": 2,
+    "sdg_name": "Zero Hunger",
+    "headline": "End hunger, achieve food security and improved nutrition, and promote sustainable agriculture.",
+    "category": ["social", "environment"],
+    "summary": "End hunger and malnutrition while improving sustainable, resilient agriculture, smallholder productivity and food system efficiency.",
+    "targets": [
+      {
+        "target_id": "2.1",
+        "text_paraphrase": "End hunger and ensure access to safe, nutritious and sufficient food year-round.",
+        "key_indicators": ["2.1.1", "2.1.2"]
+      },
+      {
+        "target_id": "2.2",
+        "text_paraphrase": "End all forms of malnutrition including stunting, wasting and micronutrient deficiencies.",
+        "key_indicators": ["2.2.1", "2.2.2", "2.2.3"]
+      },
+      {
+        "target_id": "2.3",
+        "text_paraphrase": "Double productivity and incomes of small-scale food producers by 2030.",
+        "key_indicators": ["2.3.1", "2.3.2"]
+      },
+      {
+        "target_id": "2.4",
+        "text_paraphrase": "Ensure sustainable food production systems and resilient agricultural practices.",
+        "key_indicators": ["2.4.1"]
+      },
+      {
+        "target_id": "2.5",
+        "text_paraphrase": "Maintain genetic diversity of seeds, cultivated plants and farmed animals.",
+        "key_indicators": ["2.5.1", "2.5.2"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Solar cold-chain for small farmers",
+        "description": "Reduce post-harvest losses and raise smallholder incomes through renewables-powered storage.",
+        "possible_sectors": ["agri-infra", "energy", "food supply chain"]
+      },
+      {
+        "title": "Climate-smart inputs + advisory",
+        "description": "Bundled irrigation/seed/advisory services to increase yields and resilience.",
+        "possible_sectors": ["agritech", "finance", "telecom", "food processing"]
+      },
+      {
+        "title": "Nutrition-fortified food products",
+        "description": "Affordable fortified staples for vulnerable groups.",
+        "possible_sectors": ["food manufacturing", "retail", "public health programs"]
+      }
+    ],
+    "keywords": ["food security", "nutrition", "smallholders", "post-harvest loss", "sustainable agriculture", "seed diversity"]
+  },
+
+  {
+    "sdg_id": 3,
+    "sdg_name": "Good Health and Well-Being",
+    "headline": "Ensure healthy lives and promote well-being for all at all ages.",
+    "category": ["social"],
+    "summary": "Universal health coverage, reduced premature mortality, disease prevention, and lower health harms from pollution and unsafe conditions.",
+    "targets": [
+      {
+        "target_id": "3.4",
+        "text_paraphrase": "Reduce premature mortality from non-communicable diseases and promote mental health.",
+        "key_indicators": ["3.4.1", "3.4.2"]
+      },
+      {
+        "target_id": "3.6",
+        "text_paraphrase": "Halve global deaths and injuries from road traffic accidents.",
+        "key_indicators": ["3.6.1"]
+      },
+      {
+        "target_id": "3.8",
+        "text_paraphrase": "Achieve universal health coverage and access to quality essential services and medicines.",
+        "key_indicators": ["3.8.1", "3.8.2"]
+      },
+      {
+        "target_id": "3.9",
+        "text_paraphrase": "Reduce deaths and illness from pollution and hazardous chemicals.",
+        "key_indicators": ["3.9.1", "3.9.2", "3.9.3"]
+      },
+      {
+        "target_id": "3.d",
+        "text_paraphrase": "Strengthen capacity for early warning, risk reduction and health emergency management.",
+        "key_indicators": ["3.d.1", "3.d.2"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Affordable digital health platforms",
+        "description": "Telemedicine, diagnostics, and medicine delivery for low-income communities.",
+        "possible_sectors": ["healthtech", "insurance", "telecom"]
+      },
+      {
+        "title": "Clean-air / clean-water industry upgrades",
+        "description": "Reduce pollution-related illness via emissions control and safer chemistry.",
+        "possible_sectors": ["manufacturing", "utilities", "chemicals"]
+      }
+    ],
+    "keywords": ["universal health coverage", "pollution health impacts", "NCD reduction", "mental health", "health emergency"]
+  },
+
+  {
+    "sdg_id": 4,
+    "sdg_name": "Quality Education",
+    "headline": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.",
+    "category": ["social"],
+    "summary": "Universal access to quality schooling, early childhood development, skills for work, and education for sustainable development.",
+    "targets": [
+      {
+        "target_id": "4.1",
+        "text_paraphrase": "Ensure all girls and boys complete free, equitable quality primary and secondary education.",
+        "key_indicators": ["4.1.1", "4.1.2"]
+      },
+      {
+        "target_id": "4.2",
+        "text_paraphrase": "Ensure early childhood development and access to pre-primary education.",
+        "key_indicators": ["4.2.1", "4.2.2"]
+      },
+      {
+        "target_id": "4.3",
+        "text_paraphrase": "Ensure equal access to affordable technical, vocational and tertiary education.",
+        "key_indicators": ["4.3.1"]
+      },
+      {
+        "target_id": "4.4",
+        "text_paraphrase": "Increase youth and adult skills for employment and entrepreneurship.",
+        "key_indicators": ["4.4.1"]
+      },
+      {
+        "target_id": "4.7",
+        "text_paraphrase": "Ensure learners acquire knowledge and skills for sustainable development.",
+        "key_indicators": ["4.7.1"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Edtech for underserved learners",
+        "description": "Low-cost digital content/tutoring with offline support for low-resource schools.",
+        "possible_sectors": ["edtech", "telecom", "device manufacturers"]
+      },
+      {
+        "title": "Industry-linked vocational training",
+        "description": "Skill academies aligned to local jobs and green transitions.",
+        "possible_sectors": ["manufacturing", "renewables", "services"]
+      }
+    ],
+    "keywords": ["education access", "learning outcomes", "vocational skills", "lifelong learning", "ESD"]
+  },
+
+  {
+    "sdg_id": 5,
+    "sdg_name": "Gender Equality",
+    "headline": "Achieve gender equality and empower all women and girls.",
+    "category": ["social"],
+    "summary": "End discrimination and violence, ensure reproductive rights, increase leadership participation, and recognize unpaid care work.",
+    "targets": [
+      {
+        "target_id": "5.1",
+        "text_paraphrase": "End discrimination against women and girls everywhere.",
+        "key_indicators": ["5.1.1"]
+      },
+      {
+        "target_id": "5.2",
+        "text_paraphrase": "Eliminate violence against women and girls in public and private spheres.",
+        "key_indicators": ["5.2.1", "5.2.2"]
+      },
+      {
+        "target_id": "5.3",
+        "text_paraphrase": "Eliminate harmful practices such as child marriage and FGM.",
+        "key_indicators": ["5.3.1", "5.3.2"]
+      },
+      {
+        "target_id": "5.4",
+        "text_paraphrase": "Recognize and value unpaid care and domestic work.",
+        "key_indicators": ["5.4.1"]
+      },
+      {
+        "target_id": "5.5",
+        "text_paraphrase": "Ensure women’s full and effective participation and leadership.",
+        "key_indicators": ["5.5.1", "5.5.2"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Gender-inclusive workplaces",
+        "description": "Equal pay, safe workplaces, parental support, leadership pipelines.",
+        "possible_sectors": ["all sectors"]
+      },
+      {
+        "title": "Women-focused finance and entrepreneurship",
+        "description": "Credit, insurance and training tailored for women-led MSMEs.",
+        "possible_sectors": ["fintech", "banks", "development programs"]
+      }
+    ],
+    "keywords": ["gender equity", "women leadership", "workplace safety", "care economy", "reproductive rights"]
+  },
+
+  {
+    "sdg_id": 6,
+    "sdg_name": "Clean Water and Sanitation",
+    "headline": "Ensure availability and sustainable management of water and sanitation for all.",
+    "category": ["environment", "social"],
+    "summary": "Universal safe water and sanitation, improved water quality, efficient withdrawals, and protection of water ecosystems.",
+    "targets": [
+      {
+        "target_id": "6.1",
+        "text_paraphrase": "Universal access to safe and affordable drinking water.",
+        "key_indicators": ["6.1.1"]
+      },
+      {
+        "target_id": "6.2",
+        "text_paraphrase": "Access to adequate sanitation and hygiene and end open defecation.",
+        "key_indicators": ["6.2.1a", "6.2.1b"]
+      },
+      {
+        "target_id": "6.3",
+        "text_paraphrase": "Improve water quality and reduce untreated wastewater and pollution.",
+        "key_indicators": ["6.3.1", "6.3.2"]
+      },
+      {
+        "target_id": "6.4",
+        "text_paraphrase": "Increase water-use efficiency and ensure sustainable withdrawals.",
+        "key_indicators": ["6.4.1", "6.4.2"]
+      },
+      {
+        "target_id": "6.6",
+        "text_paraphrase": "Protect and restore water-related ecosystems.",
+        "key_indicators": ["6.6.1"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Water-efficient industrial processes",
+        "description": "Improve recycling/reuse, reduce withdrawal intensity and effluent loads.",
+        "possible_sectors": ["manufacturing", "food and beverage", "textiles"]
+      },
+      {
+        "title": "Decentralized WASH solutions",
+        "description": "Low-cost filtration and sanitation systems for peri-urban/rural areas.",
+        "possible_sectors": ["utilities", "social enterprises", "construction"]
+      }
+    ],
+    "keywords": ["water efficiency", "sanitation", "wastewater", "WASH", "water ecosystems"]
+  },
+
+  {
+    "sdg_id": 7,
+    "sdg_name": "Affordable and Clean Energy",
+    "headline": "Ensure access to affordable, reliable, sustainable and modern energy for all.",
+    "category": ["environment", "infrastructure"],
+    "summary": "Expand renewable energy, universal access, efficient energy use, and clean cooking/technology.",
+    "targets": [
+      {
+        "target_id": "7.1",
+        "text_paraphrase": "Universal access to modern energy services.",
+        "key_indicators": ["7.1.1", "7.1.2"]
+      },
+      {
+        "target_id": "7.2",
+        "text_paraphrase": "Increase substantially the share of renewable energy in the global mix.",
+        "key_indicators": ["7.2.1"]
+      },
+      {
+        "target_id": "7.3",
+        "text_paraphrase": "Double the global rate of improvement in energy efficiency.",
+        "key_indicators": ["7.3.1"]
+      },
+      {
+        "target_id": "7.a",
+        "text_paraphrase": "Enhance international cooperation for clean energy research, tech, and investment.",
+        "key_indicators": ["7.a.1"]
+      },
+      {
+        "target_id": "7.b",
+        "text_paraphrase": "Expand energy infrastructure and upgrade technology for modern services.",
+        "key_indicators": ["7.b.1"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Distributed renewables",
+        "description": "Rooftop solar, mini-grids and PAYG energy access models.",
+        "possible_sectors": ["energy", "utilities", "fintech"]
+      },
+      {
+        "title": "Industrial energy-efficiency retrofits",
+        "description": "High-efficiency motors, heat recovery, smart metering.",
+        "possible_sectors": ["manufacturing", "buildings", "transport"]
+      }
+    ],
+    "keywords": ["renewables", "solar", "energy access", "clean cooking", "efficiency", "grid modernization"]
+  },
+
+  {
+    "sdg_id": 8,
+    "sdg_name": "Decent Work and Economic Growth",
+    "headline": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.",
+    "category": ["economic", "social"],
+    "summary": "Sustain inclusive growth, decent jobs, labor rights, productivity, and safe workplaces.",
+    "targets": [
+      {
+        "target_id": "8.3",
+        "text_paraphrase": "Promote development-oriented policies supporting productive activities and MSMEs.",
+        "key_indicators": ["8.3.1"]
+      },
+      {
+        "target_id": "8.4",
+        "text_paraphrase": "Improve global resource efficiency and decouple growth from environmental degradation.",
+        "key_indicators": ["8.4.1", "8.4.2"]
+      },
+      {
+        "target_id": "8.5",
+        "text_paraphrase": "Achieve full productive employment and equal pay for work of equal value.",
+        "key_indicators": ["8.5.1", "8.5.2"]
+      },
+      {
+        "target_id": "8.6",
+        "text_paraphrase": "Reduce youth not in employment, education or training (NEET).",
+        "key_indicators": ["8.6.1"]
+      },
+      {
+        "target_id": "8.8",
+        "text_paraphrase": "Protect labor rights and promote safe and secure working environments.",
+        "key_indicators": ["8.8.1", "8.8.2"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Formalizing informal work",
+        "description": "Create formal jobs with contracts, protections, and skill pathways.",
+        "possible_sectors": ["manufacturing", "agriculture", "services", "platform economy"]
+      },
+      {
+        "title": "Green MSME enablement",
+        "description": "Finance and tech to raise productivity with low environmental footprint.",
+        "possible_sectors": ["banks", "agritech", "manufacturing clusters"]
+      }
+    ],
+    "keywords": ["decent work", "labor rights", "inclusive growth", "MSMEs", "resource efficiency", "youth jobs"]
+  },
+
+  {
+    "sdg_id": 9,
+    "sdg_name": "Industry, Innovation and Infrastructure",
+    "headline": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.",
+    "category": ["economic", "infrastructure"],
+    "summary": "Develop sustainable infrastructure, boost clean industry, support SME access to finance/markets, and increase R&D capacity.",
+    "targets": [
+      {
+        "target_id": "9.1",
+        "text_paraphrase": "Develop quality, reliable, sustainable and resilient infrastructure.",
+        "key_indicators": ["9.1.1", "9.1.2"]
+      },
+      {
+        "target_id": "9.2",
+        "text_paraphrase": "Promote inclusive and sustainable industrialization and increase industry’s share in employment/GDP.",
+        "key_indicators": ["9.2.1", "9.2.2"]
+      },
+      {
+        "target_id": "9.3",
+        "text_paraphrase": "Increase small-scale industry access to finance and value chains.",
+        "key_indicators": ["9.3.1", "9.3.2"]
+      },
+      {
+        "target_id": "9.4",
+        "text_paraphrase": "Upgrade industries for sustainability and resource efficiency.",
+        "key_indicators": ["9.4.1"]
+      },
+      {
+        "target_id": "9.5",
+        "text_paraphrase": "Enhance research and innovation capacity.",
+        "key_indicators": ["9.5.1", "9.5.2"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Low-carbon manufacturing",
+        "description": "Modernize plants with clean energy and efficient processes.",
+        "possible_sectors": ["manufacturing", "construction", "chemicals"]
+      },
+      {
+        "title": "Resilient rural infrastructure",
+        "description": "Cold-chains, storage, and logistics to cut losses and emissions.",
+        "possible_sectors": ["agri-infra", "logistics", "energy"]
+      }
+    ],
+    "keywords": ["industrialization", "innovation", "resilient infrastructure", "SME finance", "resource efficiency"]
+  },
+
+  {
+    "sdg_id": 10,
+    "sdg_name": "Reduced Inequalities",
+    "headline": "Reduce inequality within and among countries.",
+    "category": ["social"],
+    "summary": "Reduce income inequality, ensure equal opportunity, promote inclusion, and improve global representation.",
+    "targets": [
+      {
+        "target_id": "10.1",
+        "text_paraphrase": "Achieve and sustain income growth of the bottom 40 percent at a higher rate than the national average.",
+        "key_indicators": ["10.1.1"]
+      },
+      {
+        "target_id": "10.2",
+        "text_paraphrase": "Empower and promote social, economic and political inclusion.",
+        "key_indicators": ["10.2.1"]
+      },
+      {
+        "target_id": "10.3",
+        "text_paraphrase": "Ensure equal opportunity and reduce discriminatory practices.",
+        "key_indicators": ["10.3.1"]
+      },
+      {
+        "target_id": "10.4",
+        "text_paraphrase": "Adopt fiscal, wage and social protection policies to progressively achieve greater equality.",
+        "key_indicators": ["10.4.1"]
+      },
+      {
+        "target_id": "10.7",
+        "text_paraphrase": "Facilitate safe, orderly and regular migration and mobility.",
+        "key_indicators": ["10.7.1", "10.7.2", "10.7.3", "10.7.4"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Inclusive products and pricing",
+        "description": "Affordable services and accessible design for underserved groups.",
+        "possible_sectors": ["fintech", "telecom", "consumer goods"]
+      },
+      {
+        "title": "Non-discriminatory hiring and advancement",
+        "description": "Bias-free recruitment, accessibility, and pay parity systems.",
+        "possible_sectors": ["all sectors"]
+      }
+    ],
+    "keywords": ["inclusion", "equity", "anti-discrimination", "income inequality", "migration"]
+  },
+
+  {
+    "sdg_id": 11,
+    "sdg_name": "Sustainable Cities and Communities",
+    "headline": "Make cities and human settlements inclusive, safe, resilient and sustainable.",
+    "category": ["environment", "social", "infrastructure"],
+    "summary": "Affordable housing, safe transport, reduced urban pollution, disaster resilience, and accessible public spaces.",
+    "targets": [
+      {
+        "target_id": "11.1",
+        "text_paraphrase": "Ensure access to adequate, safe and affordable housing and basic services.",
+        "key_indicators": ["11.1.1"]
+      },
+      {
+        "target_id": "11.2",
+        "text_paraphrase": "Provide safe, affordable, accessible and sustainable transport systems for all.",
+        "key_indicators": ["11.2.1"]
+      },
+      {
+        "target_id": "11.3",
+        "text_paraphrase": "Enhance inclusive and sustainable urbanization and participatory planning.",
+        "key_indicators": ["11.3.1", "11.3.2"]
+      },
+      {
+        "target_id": "11.5",
+        "text_paraphrase": "Reduce deaths and economic losses from disasters.",
+        "key_indicators": ["11.5.1", "11.5.2"]
+      },
+      {
+        "target_id": "11.6",
+        "text_paraphrase": "Reduce environmental impact of cities, including air quality and waste.",
+        "key_indicators": ["11.6.1", "11.6.2"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Clean urban mobility",
+        "description": "EV public transit, shared mobility, low-emission freight hubs.",
+        "possible_sectors": ["transport", "mobility platforms", "energy"]
+      },
+      {
+        "title": "Circular construction and housing",
+        "description": "Low-carbon materials and affordable modular housing.",
+        "possible_sectors": ["construction", "materials", "real estate"]
+      }
+    ],
+    "keywords": ["urban resilience", "housing", "public transport", "air quality", "municipal waste", "disaster risk"]
+  },
+
+  {
+    "sdg_id": 12,
+    "sdg_name": "Responsible Consumption and Production",
+    "headline": "Ensure sustainable consumption and production patterns.",
+    "category": ["environment", "economic"],
+    "summary": "Increase resource efficiency, cut waste/food loss, manage chemicals responsibly, and public/private adoption of sustainable practices.",
+    "targets": [
+      {
+        "target_id": "12.1",
+        "text_paraphrase": "Implement sustainable consumption and production frameworks.",
+        "key_indicators": ["12.1.1"]
+      },
+      {
+        "target_id": "12.2",
+        "text_paraphrase": "Sustainable management and efficient use of natural resources.",
+        "key_indicators": ["12.2.1", "12.2.2"]
+      },
+      {
+        "target_id": "12.3",
+        "text_paraphrase": "Halve food waste and reduce food losses including post-harvest losses by 2030.",
+        "key_indicators": ["12.3.1a", "12.3.1b"]
+      },
+      {
+        "target_id": "12.4",
+        "text_paraphrase": "Achieve environmentally sound management of chemicals and wastes.",
+        "key_indicators": ["12.4.1", "12.4.2"]
+      },
+      {
+        "target_id": "12.5",
+        "text_paraphrase": "Substantially reduce waste generation through prevention, reduction, recycling and reuse.",
+        "key_indicators": ["12.5.1"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Solar cold-storage hubs",
+        "description": "Cut post-harvest loss and food waste via efficient storage.",
+        "possible_sectors": ["agri-infra", "renewables", "logistics"]
+      },
+      {
+        "title": "Circular packaging systems",
+        "description": "Reusable/refill models with high recovery rates.",
+        "possible_sectors": ["packaging", "FMCG", "retail"]
+      }
+    ],
+    "keywords": ["food loss", "food waste", "circular economy", "resource efficiency", "chemicals management", "recycling"]
+  },
+
+  {
+    "sdg_id": 13,
+    "sdg_name": "Climate Action",
+    "headline": "Take urgent action to combat climate change and its impacts.",
+    "category": ["environment"],
+    "summary": "Mitigation, adaptation, and climate mainstreaming in policies, planning and capacity.",
+    "targets": [
+      {
+        "target_id": "13.1",
+        "text_paraphrase": "Strengthen resilience and adaptive capacity to climate hazards and disasters.",
+        "key_indicators": ["13.1.1", "13.1.2", "13.1.3"]
+      },
+      {
+        "target_id": "13.2",
+        "text_paraphrase": "Integrate climate measures into national and corporate planning.",
+        "key_indicators": ["13.2.1"]
+      },
+      {
+        "target_id": "13.3",
+        "text_paraphrase": "Improve education, awareness and capacity on climate mitigation/adaptation.",
+        "key_indicators": ["13.3.1"]
+      },
+      {
+        "target_id": "13.a",
+        "text_paraphrase": "Mobilize climate finance to implement climate actions.",
+        "key_indicators": ["13.a.1"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Science-based emissions reduction",
+        "description": "Decarbonize operations and value chains with targets and transition plans.",
+        "possible_sectors": ["energy-intensive industries", "transport", "finance", "tech"]
+      },
+      {
+        "title": "Climate-resilient supply chains",
+        "description": "Adapt logistics, sourcing, and assets to heat/flood risks.",
+        "possible_sectors": ["agriculture", "retail", "manufacturing"]
+      }
+    ],
+    "keywords": ["mitigation", "adaptation", "GHG reduction", "transition plans", "climate finance", "resilience"]
+  },
+
+  {
+    "sdg_id": 14,
+    "sdg_name": "Life Below Water",
+    "headline": "Conserve and sustainably use the oceans, seas and marine resources.",
+    "category": ["environment"],
+    "summary": "Prevent marine pollution, protect ecosystems, end overfishing, and expand conservation.",
+    "targets": [
+      {
+        "target_id": "14.1",
+        "text_paraphrase": "Prevent and significantly reduce marine pollution of all kinds.",
+        "key_indicators": ["14.1.1"]
+      },
+      {
+        "target_id": "14.2",
+        "text_paraphrase": "Protect and restore marine and coastal ecosystems.",
+        "key_indicators": ["14.2.1"]
+      },
+      {
+        "target_id": "14.4",
+        "text_paraphrase": "End overfishing and restore fish stocks sustainably.",
+        "key_indicators": ["14.4.1"]
+      },
+      {
+        "target_id": "14.5",
+        "text_paraphrase": "Conserve at least 10 percent of coastal and marine areas.",
+        "key_indicators": ["14.5.1"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Ocean-safe packaging",
+        "description": "Replace plastics that leak to oceans with safe, circular alternatives.",
+        "possible_sectors": ["packaging", "retail", "consumer goods"]
+      },
+      {
+        "title": "Clean port and shipping solutions",
+        "description": "Reduce ballast waste, fuel emissions, and discharge pollution.",
+        "possible_sectors": ["shipping", "ports", "logistics"]
+      }
+    ],
+    "keywords": ["marine pollution", "coastal ecosystems", "sustainable fisheries", "ocean conservation"]
+  },
+
+  {
+    "sdg_id": 15,
+    "sdg_name": "Life on Land",
+    "headline": "Protect, restore and promote sustainable use of terrestrial ecosystems.",
+    "category": ["environment"],
+    "summary": "Protect forests, halt biodiversity loss, restore degraded land, and prevent invasive species and illegal wildlife trade.",
+    "targets": [
+      {
+        "target_id": "15.1",
+        "text_paraphrase": "Conserve and restore terrestrial and freshwater ecosystems.",
+        "key_indicators": ["15.1.1", "15.1.2"]
+      },
+      {
+        "target_id": "15.2",
+        "text_paraphrase": "Promote sustainable forest management and halt deforestation.",
+        "key_indicators": ["15.2.1"]
+      },
+      {
+        "target_id": "15.3",
+        "text_paraphrase": "Combat desertification and restore degraded land and soil.",
+        "key_indicators": ["15.3.1"]
+      },
+      {
+        "target_id": "15.5",
+        "text_paraphrase": "Take action to reduce degradation of habitats and halt biodiversity loss.",
+        "key_indicators": ["15.5.1"]
+      },
+      {
+        "target_id": "15.7",
+        "text_paraphrase": "End poaching and trafficking of protected species.",
+        "key_indicators": ["15.7.1"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Deforestation-free supply chains",
+        "description": "Verified zero-deforestation sourcing and traceability.",
+        "possible_sectors": ["food", "retail", "paper", "textiles"]
+      },
+      {
+        "title": "Nature-positive land restoration",
+        "description": "Reforestation/soil regeneration tied to carbon and water benefits.",
+        "possible_sectors": ["agriculture", "mining rehabilitation", "forestry"]
+      }
+    ],
+    "keywords": ["biodiversity", "forests", "land degradation", "restoration", "wildlife trafficking"]
+  },
+
+  {
+    "sdg_id": 16,
+    "sdg_name": "Peace, Justice and Strong Institutions",
+    "headline": "Promote peaceful and inclusive societies, justice for all and effective institutions.",
+    "category": ["governance", "social"],
+    "summary": "Reduce violence and corruption, strengthen rule of law, ensure inclusive decision-making and access to justice.",
+    "targets": [
+      {
+        "target_id": "16.3",
+        "text_paraphrase": "Promote rule of law and ensure equal access to justice for all.",
+        "key_indicators": ["16.3.1", "16.3.2"]
+      },
+      {
+        "target_id": "16.5",
+        "text_paraphrase": "Substantially reduce corruption and bribery.",
+        "key_indicators": ["16.5.1", "16.5.2"]
+      },
+      {
+        "target_id": "16.6",
+        "text_paraphrase": "Develop effective, accountable and transparent institutions.",
+        "key_indicators": ["16.6.1", "16.6.2"]
+      },
+      {
+        "target_id": "16.7",
+        "text_paraphrase": "Ensure responsive, inclusive and representative decision-making.",
+        "key_indicators": ["16.7.1", "16.7.2"]
+      },
+      {
+        "target_id": "16.10",
+        "text_paraphrase": "Ensure public access to information and protect fundamental freedoms.",
+        "key_indicators": ["16.10.1", "16.10.2"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Strong ethics and anti-corruption",
+        "description": "Compliance systems, whistleblowing, transparent reporting and supplier integrity.",
+        "possible_sectors": ["all sectors"]
+      },
+      {
+        "title": "Community grievance mechanisms",
+        "description": "Open channels for affected communities to report harms and receive remedies.",
+        "possible_sectors": ["extractives", "infrastructure", "manufacturing"]
+      }
+    ],
+    "keywords": ["governance", "anti-corruption", "transparency", "rule of law", "grievance", "human rights"]
+  },
+
+  {
+    "sdg_id": 17,
+    "sdg_name": "Partnerships for the Goals",
+    "headline": "Strengthen the means of implementation and revitalize the global partnership for sustainable development.",
+    "category": ["cross-cutting"],
+    "summary": "Mobilize finance, technology, trade, capacity-building and multi-stakeholder partnerships to achieve the SDGs.",
+    "targets": [
+      {
+        "target_id": "17.1",
+        "text_paraphrase": "Strengthen domestic resource mobilization and improve tax capacity.",
+        "key_indicators": ["17.1.1", "17.1.2"]
+      },
+      {
+        "target_id": "17.2",
+        "text_paraphrase": "Developed countries to implement ODA commitments.",
+        "key_indicators": ["17.2.1"]
+      },
+      {
+        "target_id": "17.6",
+        "text_paraphrase": "Enhance knowledge-sharing, technology transfer and innovation cooperation.",
+        "key_indicators": ["17.6.1", "17.6.2"]
+      },
+      {
+        "target_id": "17.16",
+        "text_paraphrase": "Enhance global multi-stakeholder partnerships for SDG achievement.",
+        "key_indicators": ["17.16.1"]
+      },
+      {
+        "target_id": "17.17",
+        "text_paraphrase": "Promote effective public-private and civil society partnerships.",
+        "key_indicators": ["17.17.1"]
+      }
+    ],
+    "business_examples": [
+      {
+        "title": "Impact coalitions",
+        "description": "Co-develop solutions with government/NGOs/industry and shared KPIs.",
+        "possible_sectors": ["all sectors"]
+      },
+      {
+        "title": "Blended-finance SDG funds",
+        "description": "Mobilize private capital into SDG-aligned infrastructure and services.",
+        "possible_sectors": ["finance", "development banks", "infrastructure"]
+      }
+    ],
+    "keywords": ["partnerships", "finance mobilization", "technology transfer", "capacity building", "public-private"]
+  }
+]
